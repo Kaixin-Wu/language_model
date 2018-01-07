@@ -1,0 +1,222 @@
+In Epoch1
+In Validation Set	Ppl: 331.58
+In Test Set	Ppl: 327.19
+In Epoch2
+In Validation Set	Ppl: 264.04
+In Test Set	Ppl: 259.01
+In Epoch3
+In Validation Set	Ppl: 229.44
+In Test Set	Ppl: 225.60
+In Epoch4
+In Validation Set	Ppl: 211.52
+In Test Set	Ppl: 208.18
+In Epoch5
+In Validation Set	Ppl: 195.93
+In Test Set	Ppl: 192.72
+In Epoch6
+In Validation Set	Ppl: 183.94
+In Test Set	Ppl: 181.50
+In Epoch7
+In Validation Set	Ppl: 177.17
+In Test Set	Ppl: 174.23
+In Epoch8
+In Validation Set	Ppl: 170.53
+In Test Set	Ppl: 168.05
+In Epoch9
+In Validation Set	Ppl: 165.39
+In Test Set	Ppl: 162.07
+In Epoch10
+In Validation Set	Ppl: 161.82
+In Test Set	Ppl: 158.63
+In Epoch11
+In Validation Set	Ppl: 160.02
+In Test Set	Ppl: 156.89
+In Epoch12
+In Validation Set	Ppl: 156.87
+In Test Set	Ppl: 153.47
+In Epoch13
+In Validation Set	Ppl: 154.31
+In Test Set	Ppl: 151.31
+In Epoch14
+In Validation Set	Ppl: 152.94
+In Test Set	Ppl: 149.26
+In Epoch15
+In Validation Set	Ppl: 152.59
+In Test Set	Ppl: 149.34
+In Epoch16
+In Validation Set	Ppl: 152.83
+In Test Set	Ppl: 149.99
+In Epoch17
+In Validation Set	Ppl: 153.59
+In Test Set	Ppl: 150.10
+In Epoch18
+In Validation Set	Ppl: 153.62
+In Test Set	Ppl: 150.22
+In Epoch19
+In Validation Set	Ppl: 155.61
+In Test Set	Ppl: 151.59
+In Epoch20
+In Validation Set	Ppl: 157.60
+In Test Set	Ppl: 153.40
+In Epoch21
+In Validation Set	Ppl: 159.48
+In Test Set	Ppl: 155.15
+In Epoch22
+In Validation Set	Ppl: 161.32
+In Test Set	Ppl: 157.05
+In Epoch23
+In Validation Set	Ppl: 166.12
+In Test Set	Ppl: 161.43
+In Epoch24
+In Validation Set	Ppl: 167.36
+In Test Set	Ppl: 161.94
+In Epoch25
+In Validation Set	Ppl: 171.75
+In Test Set	Ppl: 166.79
+In Epoch26
+In Validation Set	Ppl: 174.70
+In Test Set	Ppl: 169.47
+In Epoch27
+In Validation Set	Ppl: 177.90
+In Test Set	Ppl: 172.72
+In Epoch28
+In Validation Set	Ppl: 181.75
+In Test Set	Ppl: 176.50
+In Epoch29
+In Validation Set	Ppl: 186.49
+In Test Set	Ppl: 180.39
+In Epoch30
+In Validation Set	Ppl: 190.52
+In Test Set	Ppl: 184.43
+In Epoch31
+In Validation Set	Ppl: 194.30
+In Test Set	Ppl: 189.08
+In Epoch32
+In Validation Set	Ppl: 198.45
+In Test Set	Ppl: 192.57
+In Epoch33
+In Validation Set	Ppl: 203.19
+In Test Set	Ppl: 196.56
+In Epoch34
+In Validation Set	Ppl: 206.90
+In Test Set	Ppl: 199.38
+In Epoch35
+In Validation Set	Ppl: 209.68
+In Test Set	Ppl: 205.26
+In Epoch36
+In Validation Set	Ppl: 213.92
+In Test Set	Ppl: 207.09
+In Epoch37
+In Validation Set	Ppl: 217.66
+In Test Set	Ppl: 211.72
+In Epoch38
+In Validation Set	Ppl: 222.94
+In Test Set	Ppl: 215.34
+In Epoch39
+In Validation Set	Ppl: 225.36
+In Test Set	Ppl: 220.44
+In Epoch40
+In Validation Set	Ppl: 229.53
+In Test Set	Ppl: 223.87
+In Epoch41
+In Validation Set	Ppl: 232.45
+In Test Set	Ppl: 225.88
+In Epoch42
+In Validation Set	Ppl: 237.55
+In Test Set	Ppl: 229.04
+In Epoch43
+In Validation Set	Ppl: 241.26
+In Test Set	Ppl: 235.54
+In Epoch44
+In Validation Set	Ppl: 247.07
+In Test Set	Ppl: 238.45
+In Epoch45
+In Validation Set	Ppl: 250.93
+In Test Set	Ppl: 242.52
+In Epoch46
+In Validation Set	Ppl: 252.29
+In Test Set	Ppl: 244.74
+In Epoch47
+In Validation Set	Ppl: 258.42
+In Test Set	Ppl: 249.82
+In Epoch48
+In Validation Set	Ppl: 265.43
+In Test Set	Ppl: 253.56
+In Epoch49
+In Validation Set	Ppl: 267.06
+In Test Set	Ppl: 257.90
+In Epoch50
+In Validation Set	Ppl: 270.23
+In Test Set	Ppl: 263.08
+In Epoch51
+In Validation Set	Ppl: 275.14
+In Test Set	Ppl: 265.58
+In Epoch52
+In Validation Set	Ppl: 279.41
+In Test Set	Ppl: 271.23
+In Epoch53
+In Validation Set	Ppl: 282.78
+In Test Set	Ppl: 274.17
+In Epoch54
+In Validation Set	Ppl: 287.98
+In Test Set	Ppl: 277.84
+In Epoch55
+In Validation Set	Ppl: 296.00
+In Test Set	Ppl: 284.09
+In Epoch56
+In Validation Set	Ppl: 297.62
+In Test Set	Ppl: 285.90
+In Epoch57
+In Validation Set	Ppl: 300.67
+In Test Set	Ppl: 291.21
+In Epoch58
+In Validation Set	Ppl: 305.95
+In Test Set	Ppl: 297.27
+In Epoch59
+In Validation Set	Ppl: 315.04
+In Test Set	Ppl: 303.97
+In Epoch60
+In Validation Set	Ppl: 318.49
+In Test Set	Ppl: 304.68
+In Epoch61
+In Validation Set	Ppl: 323.16
+In Test Set	Ppl: 311.19
+In Epoch62
+In Validation Set	Ppl: 327.24
+In Test Set	Ppl: 317.49
+In Epoch63
+In Validation Set	Ppl: 331.51
+In Test Set	Ppl: 318.92
+In Epoch64
+In Validation Set	Ppl: 335.79
+In Test Set	Ppl: 326.13
+In Epoch65
+In Validation Set	Ppl: 340.88
+In Test Set	Ppl: 328.22
+In Epoch66
+In Validation Set	Ppl: 348.68
+In Test Set	Ppl: 334.53
+In Epoch67
+In Validation Set	Ppl: 354.30
+In Test Set	Ppl: 337.03
+In Epoch68
+In Validation Set	Ppl: 360.15
+In Test Set	Ppl: 344.82
+In Epoch69
+In Validation Set	Ppl: 363.11
+In Test Set	Ppl: 350.04
+In Epoch70
+In Validation Set	Ppl: 370.64
+In Test Set	Ppl: 354.14
+In Epoch71
+In Validation Set	Ppl: 376.79
+In Test Set	Ppl: 362.63
+In Epoch72
+In Validation Set	Ppl: 381.46
+In Test Set	Ppl: 366.30
+In Epoch73
+In Validation Set	Ppl: 388.48
+In Test Set	Ppl: 375.65
+In Epoch74
+In Validation Set	Ppl: 401.19
+In Test Set	Ppl: 379.02
